@@ -1,1 +1,2 @@
-# IssueCollector
+# JiraIssueFetcher
+
