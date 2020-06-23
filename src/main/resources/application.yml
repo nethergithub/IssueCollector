@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/jiraissues?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT&useOldAliasMetadataBehavior=true&autoReconnect=true&SQL_SAFE_UPDATES=0
+    username: root
+    password: ********
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+testingcenter: "部门1，部门2，部门3"
+logging:
+  path: /
+  file: JiraMate.log
